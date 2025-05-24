@@ -1,7 +1,7 @@
 
 # Ignore md files
 *.md
-*.csv
+users_data_2.csv
 
 # But keep README.md
 !project_info.md
