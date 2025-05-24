@@ -1,8 +1,9 @@
 
-# Ignore md files
+# Ignore md files, users_data_2, .ipynb_checkpoints/ folder
 *.md
 users_data_2.csv
+.ipynb_checkpoints/
 
-# But keep README.md
+# But keep project_info.md
 !project_info.md
 
